@@ -4,9 +4,11 @@
 
 |Command Name |Arguments |Description |Minimum Rank |
 
+|startroulette      |`null` | Manually start roulette. | Menager
+|endroulette      |`null` | If roulette is started use this to end it manually. | Menager
 |fortunecookie       |`null` | Open your fortunecookie.
 |8ball       |`<any text>` | Asks the Magic 8 Ball a question.
-|about       || Displays bot's "about" message.
+|about       | | Displays bot's "about" message.
 |afktime     |`[@username\|#userID]` | Returns the amount of time a user has been inactive. Gets your own info if no valid argument.
 |anagram     |`<7-30 character string>` | Returns an anagram of the given word(s), retrieved from www.anagramgenius.com.
 |blacklist   |`<blacklist name>` `<add//remove\|rem>` `<youtube\|yt\|1//soundcloud\|sc\|2>` `<video ID//track ID>` | Adds or removes songs to/from a given blacklist.|Manager
