@@ -3,7 +3,7 @@
 ### Commands
 
 |Command Name |Arguments |Description |Minimum Rank |
-|:----------: |:-------: |:-----------: |:----------: |
+
 |8ball       |`<any text>` | Asks the Magic 8 Ball a question.
 |about       || Displays bot's "about" message.
 |afktime     |`[@username\|#userID]` | Returns the amount of time a user has been inactive. Gets your own info if no valid argument.
