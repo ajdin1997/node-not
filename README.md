@@ -2,7 +2,7 @@
 
 ### Commands
 
-|Command Name|Arguments|Description|Minimum Rank|
+|Command Name |Arguments |Description |Minimum Rank |
 |:----------:|:-------:|-----------|:----------:|
 |8ball       |`<any text>` | Asks the Magic 8 Ball a question.
 |about       || Displays bot's "about" message.
