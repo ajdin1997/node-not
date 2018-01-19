@@ -13,7 +13,7 @@
 |commands    || Lists active commands and amount of inactive commands.
 |dc          || Places you back into the waitlist at your old position ONLY IF you were disconnected while waiting.Must be undefined since disconnecting.
 |dclookup    |`[@username\|userID]` | Returns a user's last disconnect time and position. Use their ID if they are not present in the room.
-|candy       |`<@username>` | Give someone a random tasty candy!
+|love       |`<@username>` | Show someone how much you love him/them.!
 |cookie      |`<@username>` | Give someone a cookie!
 |disable     |`<command name>` | Disable a command.|Manager
 |enable      |`<command name>` | Enable a command.|Manager
