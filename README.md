@@ -4,6 +4,9 @@
 
 |Command Name |Arguments |Description |Minimum Rank |
 
+|match      |`<@username>` | Check are you compatible with others person | User
+|dare      |`<@username>` | Play truth & dare game with others | User
+|truth      |`<@username>` | Play truth & dare game with others | User
 |startroulette      |`null` | Manually start roulette. | Menager
 |endroulette      |`null` | If roulette is started use this to end it manually. | Menager
 |fortunecookie       |`null` | Open your fortunecookie.
