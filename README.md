@@ -2,7 +2,7 @@
 
 ### Commands
 
-Command |Argument |Description
+Command | Argument | Description
 ------------ | -------------
-Content from cell 1 |Content from cell 2 |content4
-Content in the first column |Content in the second column |content4
+Content from cell 1 | Content from cell 2 | content4
+Content in the first column | Content in the second column | content4
