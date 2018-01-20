@@ -4,7 +4,7 @@
 
 |Command Name |Arguments |Description |Minimum Rank |
 
-|match      |`<@username>` | Check are you compatible with others person | User
+|match      |`<@username>` | Love Calculator | User
 |dare      |`<@username>` | Play truth & dare game with others | User
 |truth      |`<@username>` | Play truth & dare game with others | User
 |startroulette      |`null` | Manually start roulette. | Menager
