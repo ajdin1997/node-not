@@ -44,7 +44,7 @@
 
 
 
-### set command option 
+### set `<command>` `<option>` 
   
   |Command                   |Option   |Description|
 
