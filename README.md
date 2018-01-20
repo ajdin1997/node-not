@@ -42,7 +42,7 @@
 |uptime      || Returns uptime of this bot.
 
 
-# set [option] 
+### set [option] 
   
   |Option                   |Valid Datatype   |Description|
 
