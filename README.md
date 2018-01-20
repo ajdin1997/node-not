@@ -45,7 +45,7 @@
 # set <option> 
   
   |Option                   |Valid Datatype   |Description|
-|:-----------------------:|:---------------:|-----------|
+
 |autoWoot                 |`true` \| `false`|If true, automatically woots when a new song is played.
 |welcomeUsers             |`true` \| `false`|If true, welcomes users joining the room.
 |chatDeleteTriggerMessages|`true` \| `false`|If true, deletes messages beginning with the bot\'s trigger.
