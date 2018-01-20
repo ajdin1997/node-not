@@ -44,9 +44,9 @@
 
 
 
-### set [option] 
+### set command option 
   
-  |Option                   |Valid Datatype   |Description|
+  |Command                   |Option   |Description|
 
 |autoWoot                 |`true` \| `false`|If true, automatically woots when a new song is played.
 |welcomeUsers             |`true` \| `false`|If true, welcomes users joining the room.
